@@ -7,9 +7,15 @@ Through the seamless integration of Selenium, a powerful web automation tool, an
 Key Features:
 
 Message Automation: Automate the process of sending messages to individuals or groups on WhatsApp, eliminating the need for manual input.
+
 Contact Management: Automate the addition, deletion, and grouping of contacts in the WhatsApp address book, simplifying contact management tasks.
+
 Automated Replies: Create customized automated replies for incoming messages based on predefined rules or keywords, improving responsiveness.
+
 Message Scheduler: Schedule messages to be sent at specific dates and times, ensuring timely communication with individuals or groups.
+
 Data Extraction: Extract relevant data from incoming messages or group chats, enabling data analysis and integration with other systems.
+
 Attachment Handling: Automate the process of sending and receiving media files (e.g., images, videos, documents) within WhatsApp conversations.
+
 User-Friendly Interface: Develop an intuitive and user-friendly interface that allows users to configure and execute automation tasks effortlessly.
